@@ -11,6 +11,9 @@
 
 โปรแกรม Python สำหรับวิเคราะห์โครงสร้าง **เลขบัตรประชาชนไทย** และ **เบอร์โทรศัพท์ไทย** โดยใช้ Input เดียว และสามารถตรวจสอบได้อัตโนมัติว่าเป็นเลขประเภทใด
 
+<img height="400" class="width: auto;" alt="image" src="https://github.com/user-attachments/assets/3e79f7ac-5ced-4752-bee3-da1e870323b8" />
+<img height="400" class="width: auto;" alt="image" src="https://github.com/user-attachments/assets/45234a03-1372-4e37-a129-5d5beed67f00" />
+
 ---
 
 ## ✨ Features
