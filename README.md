@@ -219,59 +219,6 @@ python thai_id_phone_decoder.py --self-test
 
 ---
 
-## 🏷️ Git Tag / Release
-
-Current Version:
-
-```text
-v4.0.0
-```
-
-Commit เวอร์ชันใหม่:
-
-```bash
-git add .
-git commit -m "Release v4.0.0"
-```
-
-สร้าง Git Tag:
-
-```bash
-git tag -a v4.0.0 -m "Thai ID + Phone Decoder v4.0.0"
-```
-
-Push Source Code:
-
-```bash
-git push origin main
-```
-
-Push Tag:
-
-```bash
-git push origin v4.0.0
-```
-
-หรือ Push ทุก Tag:
-
-```bash
-git push origin --tags
-```
-
----
-
-## 📦 GitHub Release
-
-หากติดตั้ง GitHub CLI (`gh`) สามารถสร้าง Release ได้ด้วย:
-
-```bash
-gh release create v4.0.0 thai_id_phone_decoder.py \
-  --title "Thai ID + Phone Decoder v4.0.0" \
-  --notes "Thai ID และ Thai Phone Number Decoder รุ่น v4.0.0"
-```
-
----
-
 ## 📄 License
 
 โปรเจกต์นี้เผยแพร่ภายใต้ **Apache License**
