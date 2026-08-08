@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/Version-v4.0.0-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![Dependencies](https://img.shields.io/badge/Dependencies-Standard%20Library-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://shields.io/badge/license-Apache%202-blue)
 
 </p>
 
